@@ -1,4 +1,4 @@
-# typed-countries
+# coutries-states
 An array of the world's countries, complete with full TypeScript declaration support.
 
 ## Installation
@@ -7,10 +7,10 @@ Install from the NPM registry with NPM itself, or with [Yarn](https://github.com
 
 ```sh
 # NPM:
-npm install typed-countries
+npm install coutries-states
 
 # or Yarn:
-yarn add typed-countries
+yarn add coutries-states
 ```
 
 ## Importing

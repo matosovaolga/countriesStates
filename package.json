@@ -4,7 +4,7 @@
   "description": "An array of the world's countries, complete with full TypeScript declaration support.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
-  "repository": "git@github.com:nozzlegear/typed-countries.git",
+  "repository": "git@github.com:OlgaMatosova/coutriesStates.git",
   "author": "Olga Matosova <matosovaolga@gmail.com>",
   "license": "MIT",
   "keywords": [
