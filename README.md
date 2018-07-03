@@ -19,7 +19,7 @@ You can import the package with ES6-style imports, or through Node's require:
 
 ```js
 //ES6-style import
-import { countries, regions } from "typed-countries";
+import { countries, regions } from "coutries-states";
 
 //Require
 const countries = require("typed-countries").countries;
